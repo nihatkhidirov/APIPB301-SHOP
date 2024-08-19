@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopApp", "ShopApp\ShopApp.csproj", "{1FE0A5DD-8F5E-48DB-AA6D-74A6FA879E4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopApp.Data", "ShopApp.Data\ShopApp.Data.csproj", "{7FFEC31D-B89E-4725-A47C-AEDAEEBE1760}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FE0A5DD-8F5E-48DB-AA6D-74A6FA879E4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FE0A5DD-8F5E-48DB-AA6D-74A6FA879E4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FE0A5DD-8F5E-48DB-AA6D-74A6FA879E4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FE0A5DD-8F5E-48DB-AA6D-74A6FA879E4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FFEC31D-B89E-4725-A47C-AEDAEEBE1760}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FFEC31D-B89E-4725-A47C-AEDAEEBE1760}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FFEC31D-B89E-4725-A47C-AEDAEEBE1760}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FFEC31D-B89E-4725-A47C-AEDAEEBE1760}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D53CD81-19DE-404A-9879-AAB9674D1F63}
+	EndGlobalSection
+EndGlobal
